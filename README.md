@@ -36,7 +36,7 @@ ReceiptFlow is a desktop application built with Python and PySide6 for generatin
 ### Receipt Preview
 ![Receipt Preview](screenshots/receipt-preview.png)
 
-### Splash Screen
+### splash Screen
 ![Splash Screen](screenshots/splash-screen.png)
 
 
