@@ -25,6 +25,21 @@ ReceiptFlow is a desktop application built with Python and PySide6 for generatin
 - ReportLab
 - num2words
 
+## Screenshots
+
+### Light Mode
+![Light Mode](screenshots/light-mode.png)
+
+### Dark Mode
+![Dark Mode](screenshots/dark-mode.png)
+
+### Receipt Preview
+![Receipt Preview](screenshots/receipt-preview.png)
+
+### Splash Screen
+![Splash Screen](screenshots/splash-screen.png)
+
+
 ## How to Run
 
 1. Install dependencies
@@ -36,16 +51,6 @@ pip install -r requirements.txt
 
 ```bash
 python app.py
-
-# Screenshots
-
-![Light Mode](screenshots/light-mode.png)
-
-![Dark Mode](screenshots/dark-mode.png)
-
-![Receipt Preview](screenshots/receipt-preview.png)
-
-![Splash Screen](screenshots/splash-screen.png)
 
 Author
 
