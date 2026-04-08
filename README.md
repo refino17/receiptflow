@@ -41,7 +41,7 @@ python app.py
 
 ![Light Mode](screenshots/light-mode.png)
 
-(screenshots/dark-mode.png)
+![Dark Mode](screenshots/dark-mode.png)
 
 ![Receipt Preview](screenshots/receipt-preview.png)
 
